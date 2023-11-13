@@ -2,6 +2,7 @@
 y2023-2024
 <br>
 Scuola Universitaria Superiore IUSS Pavia
+<br>
 Contact: christian.salvatore@iusspavia.it
 
 ## Covered topics
