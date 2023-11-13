@@ -1,4 +1,5 @@
-# Artificial Intelligence | The Hadron Academy 2023-2024
+# Artificial Intelligence | The Hadron Academy
+y2023-2024
 Scuola Universitaria Superiore IUSS Pavia
 Contact: christian.salvatore@iusspavia.it
 
