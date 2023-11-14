@@ -1,5 +1,8 @@
-# Elements of Machine Learning
+# Artificial Intelligence | The Hadron Academy
+y2023-2024
+<br>
 Scuola Universitaria Superiore IUSS Pavia
+<br>
 Contact: christian.salvatore@iusspavia.it
 
 ## Covered topics
@@ -8,33 +11,27 @@ Contact: christian.salvatore@iusspavia.it
 * Feature extraction
 * Feature selection
 * ML classifiers
-* Model implementation </>
+* Model implementation in medicine
 
 ## Program
-* __Lesson #1__ __(September 14, 2023 \| 13:00-16:00)__ <br>
+* __Lesson #1__ __(November 14, 2023 \| 11:00-13:00)__ <br>
 	* Overview
+ 	* Machine learning in healthcare
 	* Machine learning, artificial intelligence and deep learning
- 	* Validation and evalulation of machine-learning models (part 1 of 2)
  
-* __Lesson #2__ __(September 21, 2023 \| 13:00-17:00)__ <br>
-	* Validation and evalulation of machine-learning models (part 2 of 2)
- 	* Overfitting and underfitting 
- 	* Feature extraction
-  	* Feature Selection
-  	* Support Vector Machine
- 
-* __Lesson #3__ __(September 28, 2023 \| 13:00-16:00)__ <br>
-	* Ensemble of classifiers (Random Forest)
- 	* A representative scientific paper
-  	* A coding example of machine-learning model (from training to model evaluation) 
+* __Lesson #2__ __(November 14, 2023 \| 14:00-17:00)__ <br>
+	* Validation approaches
+	* Metrics: from conventional, to AUC, to calibration
+	* Underfitting/overfitting of learning models
 
+* __Lesson #3__ __(November 15, 2023 \| 11:00-13:00)__ <br>
+
+* __Lesson #4__ __(November 15, 2023 \| 14:00-17:00)__ <br>
+ 
 <br>
 
 ## Material
-[__[Slides]__](https://github.com/christiansalvatore/elements-of-machinelearning/tree/main/slides)
-[__[Code]__](https://drive.google.com/drive/folders/1n_gFTtQ3mtk3M0wRturKxflEzL9g7zJT?usp=sharing)
-[__[Dataset]__](https://drive.google.com/drive/folders/1kngsU25SF0BHgpGudyqOGL1pxYYWrKFR?usp=sharing)
-[__[Literature]__](https://github.com/christiansalvatore/elements-of-machinelearning/tree/main/scientific-papers)
+[__[Slides]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides)
 <br>
 
 <br>
