@@ -14,6 +14,7 @@ Contact: christian.salvatore@iusspavia.it
 * Model implementation in medicine
 
 ## Program
+### Elements
 * __Lesson #1__ __(November 14, 2023 \| 11:00-13:00)__ <br>
 	* Overview
  	* Machine learning in healthcare
@@ -31,6 +32,25 @@ Contact: christian.salvatore@iusspavia.it
 	* Feature selection
 	* Support Vector Machine
 	* Example of ML use in clinics
+
+### Advanced
+* __Lesson #1__ __(December 12, 2023 \| 11:00-13:00)__ <br>
+	* Radiomics
+ 
+* __Lesson #2__ __(December 12, 2023 \| 14:00-17:00)__ <br>
+  	* Practice on python
+  	   
+* __Lesson #3__ __(December 13, 2023 \| 11:00-13:00)__ <br>
+	* Decision trees and ensemble of classifiers
+   
+* __Lesson #4__ __(December 13, 2023 \| 14:00-16:00)__ <br>
+	* Practice on python
+   
+* __Lesson #5__ __(January 09, 2024 \| 11:00-13:00)__ <br>
+* __Lesson #6__ __(January 09, 2024 \| 14:00-16:00)__ <br>
+* __Lesson #7__ __(January 11, 2024 \| 11:00-13:00)__ <br>
+* __Lesson #8__ __(January 11, 2024 \| 14:00-17:00)__ <br>
+* __Lesson #9__ __(January 12, 2024 \| 11:00-13:00)__ <br>
  
 <br>
 
