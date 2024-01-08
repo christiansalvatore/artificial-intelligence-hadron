@@ -35,8 +35,9 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 
 ## Material
-[__[Slides / Elements]__]([https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements))
-[__[Slides / Advanced]__]([https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-advanced))
+[__[Slides-Elements]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements)
+<br>
+[__[Slides-Advanced]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-advanced)
 <br>
 
 ## Exam
