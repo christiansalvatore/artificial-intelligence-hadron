@@ -47,10 +47,22 @@ Contact: christian.salvatore@iusspavia.it
 	* Practice on python
    
 * __Lesson #5__ __(January 09, 2024 \| 11:00-13:00)__ <br>
+	* Decision trees and ensemble of classifiers
+
 * __Lesson #6__ __(January 09, 2024 \| 14:00-16:00)__ <br>
+	* Decision trees and ensemble of classifiers
+	* Artificial neural networks and deep learning
+
 * __Lesson #7__ __(January 11, 2024 \| 11:00-13:00)__ <br>
+	* Artificial neural networks and deep learning
+	* Practice on python
+
 * __Lesson #8__ __(January 11, 2024 \| 14:00-17:00)__ <br>
+	* Artificial neural networks and deep learning
+	* Practice on python
+
 * __Lesson #9__ __(January 12, 2024 \| 11:00-13:00)__ <br>
+	* Practice on python
  
 <br>
 
