@@ -1,5 +1,5 @@
 # Artificial Intelligence | The Hadron Academy
-y2023-2024
+y2024-2025
 <br>
 Scuola Universitaria Superiore IUSS Pavia
 <br>
