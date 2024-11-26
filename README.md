@@ -42,7 +42,7 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 
 ## Exam
-[__[Link-Elements]__](https://docs.google.com/forms/d/e/1FAIpQLSfRGrNy0wD6-Qei-s85h-aSr-PbRfm3wIsCimuvBH5ZT51ung/viewform?usp=sf_link)
+[__[Link-Elements]__](TBD)
 
 <br>
 
