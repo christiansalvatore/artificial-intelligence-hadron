@@ -1,11 +1,11 @@
 # Artificial Intelligence | The Hadron Academy
-y2023-2024
+y2024-2025
 <br>
 Scuola Universitaria Superiore IUSS Pavia
 <br>
 Contact: christian.salvatore@iusspavia.it
 
-## Covered topics
+## Covered topics (Elements + Advanced)
 * Machine learning and the «data life cycle» in healthcare
 * Validation and classification metrics
 * Feature extraction
@@ -14,6 +14,43 @@ Contact: christian.salvatore@iusspavia.it
 * Model implementation in medicine
 
 ## Program
+### Elements
+* __Lesson #1__ __(November 25, 2023 \| 11:00-13:00)__ <br>
+	* Overview
+ 	* Machine learning in healthcare
+	* Machine learning, artificial intelligence and deep learning
+ 
+* __Lesson #2__ __(November 25, 2023 \| 14:00-17:00)__ <br>
+	* Example of ML use in clinics
+	* Validation approaches
+	* Metrics: from conventional, to AUC, to calibration
+
+* __Lesson #3__ __(November 26, 2023 \| 11:00-13:00)__ <br>
+	* Underfitting/overfitting of learning models
+   	* Feature extraction
+
+* __Lesson #4__ __(November 26, 2023 \| 14:00-17:00)__ <br>
+	* Feature selection
+	* Support Vector Machine
+ 
+<br>
+
+## Material
+[__[Slides-Elements]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements)
+<br>
+[__[Slides-Advanced]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-advanced)
+<br>
+
+## Exam
+[__[Link-Elements]__](https://docs.google.com/forms/d/e/1FAIpQLSfRGrNy0wD6-Qei-s85h-aSr-PbRfm3wIsCimuvBH5ZT51ung/viewform?usp=sf_link)
+
+<br>
+
+## Comments and suggestions
+Please, leave any comment/suggestion about the course [TBD]().
+
+## Archive
+## 2023-2024
 ### Elements
 * __Lesson #1__ __(November 14, 2023 \| 11:00-13:00)__ <br>
 	* Overview
@@ -65,17 +102,3 @@ Contact: christian.salvatore@iusspavia.it
 	* Practice on python
  
 <br>
-
-## Material
-[__[Slides-Elements]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements)
-<br>
-[__[Slides-Advanced]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-advanced)
-<br>
-
-## Exam
-[__[Link-Elements]__](https://docs.google.com/forms/d/e/1FAIpQLSfRGrNy0wD6-Qei-s85h-aSr-PbRfm3wIsCimuvBH5ZT51ung/viewform?usp=sf_link)
-
-<br>
-
-## Comments and suggestions
-Please, leave any comment/suggestion about the course [TBD]().
