@@ -27,7 +27,7 @@ Contact: christian.salvatore@iusspavia.it
 
 * __Lesson #3__ __(November 26, 2023 \| 11:00-13:00)__ <br>
 	* Underfitting/overfitting of learning models
-   	* Feature extraction
+ 	* Feature extraction
 
 * __Lesson #4__ __(November 26, 2023 \| 14:00-17:00)__ <br>
 	* Feature selection
@@ -38,11 +38,11 @@ Contact: christian.salvatore@iusspavia.it
 ## Material
 [__[Slides-Elements]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements)
 <br>
-[__[Slides-Advanced]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-advanced)
+[__[Slides-Advanced]__] TBD
 <br>
 
 ## Exam
-[__[Link-Elements]__](https://docs.google.com/forms/d/e/1FAIpQLSfRGrNy0wD6-Qei-s85h-aSr-PbRfm3wIsCimuvBH5ZT51ung/viewform?usp=sf_link)
+[__[Link-Elements]__] TBD
 
 <br>
 
