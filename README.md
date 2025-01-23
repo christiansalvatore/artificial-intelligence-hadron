@@ -15,30 +15,52 @@ Contact: christian.salvatore@iusspavia.it
 
 ## Program
 ### Elements
-* __Lesson #1__ __(November 25, 2023 \| 11:00-13:00)__ <br>
+* __Lesson #1__ __(November 25, 2024 \| 11:00-13:00)__ <br>
 	* Overview
  	* Machine learning in healthcare
 	* Machine learning, artificial intelligence and deep learning
  
-* __Lesson #2__ __(November 25, 2023 \| 14:00-17:00)__ <br>
+* __Lesson #2__ __(November 25, 2024 \| 14:00-17:00)__ <br>
 	* Example of ML use in clinics
 	* Validation approaches
 	* Metrics: from conventional, to AUC, to calibration
 
-* __Lesson #3__ __(November 26, 2023 \| 11:00-13:00)__ <br>
+* __Lesson #3__ __(November 26, 2024 \| 11:00-13:00)__ <br>
 	* Underfitting/overfitting of learning models
  	* Feature extraction
 
-* __Lesson #4__ __(November 26, 2023 \| 14:00-17:00)__ <br>
+* __Lesson #4__ __(November 26, 2024 \| 14:00-17:00)__ <br>
 	* Feature selection
 	* Support Vector Machine
+
+### Advanced
+* __Lesson #1__ __(January 14, 2025 \| 11:00-13:00)__ <br>
+	* Overview
+ 	* Machine learning in healthcare
+	* Machine learning, artificial intelligence and deep learning
+ 	* Validation approaches
+  	* Metrics: from conventional, to AUC, to calibration
+ 
+* __Lesson #2__ __(January 14, 2025 \| 14:00-17:00)__ <br>
+	* Example of ML use in clinics
+	* Feature extraction
+ 	* Feature Selection
+	* </> python lab
+
+* __Lesson #3__ __(January 23, 2025 \| 11:00-13:00)__ <br>
+	* Support Vector Machine
+ 	* Radiomics
+
+* __Lesson #4__ __(January 23, 2025 \| 14:00-17:00)__ <br>
+	* Ensemble classifiers
+	* </> python lab
  
 <br>
 
 ## Material
 [__[Slides-Elements]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements)
 <br>
-[__[Slides-Advanced]__] TBD
+[__[Slides-Advanced]__](https://drive.google.com/drive/u/4/folders/19BoeZ-l7i_qMfXNXy2owD1SyOM-ebUNy)
 <br>
 
 ## Exam
