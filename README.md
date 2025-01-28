@@ -54,6 +54,15 @@ Contact: christian.salvatore@iusspavia.it
 * __Lesson #4__ __(January 23, 2025 \| 14:00-17:00)__ <br>
 	* Ensemble classifiers
 	* </> python lab
+
+* __Lesson #5__ __(January 28, 2025 \| 11:00-13:00)__ <br>
+	* Artificial Neural Networks and Deep Learning
+
+* __Lesson #6__ __(January 28, 2025 \| 14:00-17:00)__ <br>
+	* Deep Learning
+ 	* Explainable AI
+  	* Segmentation
+	* </> python lab*
  
 <br>
 
