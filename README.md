@@ -62,7 +62,7 @@ Contact: christian.salvatore@iusspavia.it
 	* Deep Learning
  	* Explainable AI
   	* Segmentation
-	* </> python lab*
+	* </> python lab
  
 <br>
 
